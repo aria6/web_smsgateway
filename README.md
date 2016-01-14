@@ -14,4 +14,5 @@ Web Site SMS Gateway
 
 
 ------- read more berbagicatatan.web.id ---------
+
 [Link for more detail about installation](http://berbagicatatan.web.id/membuat-web-sms-gateway-pada-ubuntu-menggunakan-gammu/)
